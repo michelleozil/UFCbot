@@ -1,0 +1,14 @@
+"0","history <- model %>% fit(
+  x = train_input,
+  y = train_output,
+  epochs = 200,
+  validation_split = 0.2,
+  callbacks = callback_early_stopping(patience = 20)
+)
+"
+"1","Epoch 1/200
+"
+"2","Error in py_call_impl(callable, call_args$unnamed, call_args$named) : 
+  ValueError: When there is only a single output, the `loss_weights` argument must be a Python float. Received instead: loss_weights=[0.2] of type <class 'list'>
+[90mRun ]8;;rstudio:run:reticulate::py_last_error()`reticulate::py_last_error()`]8;; for details.[39m
+"

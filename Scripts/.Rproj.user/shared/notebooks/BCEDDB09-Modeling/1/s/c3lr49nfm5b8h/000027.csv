@@ -1,0 +1,11 @@
+"0","model %>% 
+  compile(
+    optimizer = optimizer_adam(),
+    loss = ""mse"",
+    metrics = list(""mean_absolute_error""),
+    loss_weights = c(0.13154802, 0.42965849, 0.19235573, 0.14902811, 0.09740966)
+  )
+"
+"2","Error in do.call(object$compile, args) : 
+  'what' must be a function or character string
+"
