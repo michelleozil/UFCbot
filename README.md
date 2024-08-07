@@ -1,2 +1,2 @@
 # UFCbot
-Still updating xgboost models 
+Models should be uploaded bi-weekly
