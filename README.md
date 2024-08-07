@@ -1,2 +1,2 @@
 # UFCbot
-Still updating xgboost models 
+XGBoost & Neural Network models should update bi-weekly
