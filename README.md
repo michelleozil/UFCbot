@@ -1,2 +1,2 @@
 # UFCbot
-Models should be uploaded bi-weekly; large .RDS model-tuning files still uploading
+Models should be uploaded bi-weekly; large .RDS model-tuning files pending upload
